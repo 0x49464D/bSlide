@@ -1,0 +1,27 @@
+body
+{
+    background-color: #505050;
+    font-family: helvetica, sans-serif;
+    font-size: 15px;
+}
+#background
+{
+    width: 640px;
+    height: 480px;
+    border-radius: 10px;
+}
+#background .info
+{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    padding: 10px;
+}
+#background .info a
+{
+    color: white;
+}
+#background .info a:hover
+{
+    color: whitesmoke;
+}
